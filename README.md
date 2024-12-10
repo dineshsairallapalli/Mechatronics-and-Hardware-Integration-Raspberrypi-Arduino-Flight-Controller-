@@ -18,7 +18,6 @@ To create a highly adaptable hybrid robot (Morphobot) that transitions smoothly 
 - **Software**:
   - Arduino IDE for Quadcopter and Transformation Code.
   - Python for rover control and sensor integration.
-  - MATLAB (optional, based on reports) for analysis and visualization.
 - **Algorithms**:
   - PID control for quadcopter stabilization.
   - Servo control for mechanical adjustments.
