@@ -1,4 +1,4 @@
-# Mechatronics-and-Hardware-Integration-Raspberrypi-Arduino-Flight-Controller-
+# Mechatronics-and-Hardware-Integration-Raspberrypi-Arduino-Flight-Controller
 
 ### **Description**
 This repository implements a hybrid mechatronics system capable of transforming from a rover to a drone. Leveraging advanced control algorithms, sensor integration, and robust mechanical design, the project demonstrates seamless transitions between land-based and aerial functionalities. The repository includes Arduino and Python code, detailed project documentation, and visual demonstrations, providing a comprehensive guide to hybrid robotic systems.
